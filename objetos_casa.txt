@@ -1,3 +1,6 @@
 sofa
 mesa
 tv
+cobertor
+traveceiro
+manta
