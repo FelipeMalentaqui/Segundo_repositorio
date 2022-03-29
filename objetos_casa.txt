@@ -1,3 +1,6 @@
 sofa
 mesa
 tv
+cama
+guarda-roupa
+sapateira
